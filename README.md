@@ -9,7 +9,7 @@ Gratis, statisk svensk medicinsk utbildningswebbplats med **31 diagnoser** inom 
 - För varje diagnos: **orsak, symtom, kliniska fynd, provfynd, utredning, provtagning, EKG-fynd och behandling**.
 - Syntetiska EKG-principbilder och egenritade anatomiska DT-/röntgen-/ultraljudsscheman. **Inga riktiga patientbilder.**
 - **Endast fasta behandlingstabeller** (symtom, fynd, utredning, behandling). Inga interaktiva JA/NEJ-algoritmer.
-- 15 diagnossidor har särskilda doseringsexempel direktlänkade till regionala behandlings-PM. Övriga doser publiceras inte förrän de har verifierats.
+- 15 diagnossidor har särskilda källanknutna behandlingsavsnitt; flertalet innehåller kontrollerade doseringsexempel. Övriga doser publiceras inte förrän de har verifierats.
 
 ## Medicinska källportaler
 
